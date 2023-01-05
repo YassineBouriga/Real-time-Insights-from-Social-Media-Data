@@ -25,8 +25,10 @@ and finally, I used the hist() method of Matplotlib with the tweets_languages as
 ## Libraries used :
 
 * pandas
+
 ![](Images/pandas.PNG)
 
 
 * matplotlib
+
 ![](Images/matplotlib.PNG)
