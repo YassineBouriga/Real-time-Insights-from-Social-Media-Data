@@ -23,7 +23,7 @@ and finally, I used the hist() method of Matplotlib with the tweets_languages as
 
 ## Conclusion :
 
-To conclude, this can allow us to get an understanding of the "category" of people interested in this topic (clustering). We could also analyze the device type used by the Twitteratis, tweet['source'], to answer questions like, "Does owning an Apple compared to Andorid influences people's propensity towards this trend?".
+To conclude, this can allow us to get an understanding of the "category" of people interested in this topic (clustering). We could also analyze the device type used by the Twitter users, to answer questions like, "Does owning an Apple compared to Andorid influences people's propensity towards this trend?".
 
 ## Libraries used :
 
