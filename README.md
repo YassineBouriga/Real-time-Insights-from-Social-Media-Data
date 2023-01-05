@@ -5,6 +5,7 @@
 
 -----------------------------------------------------
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YassineBouriga/Real-time-Insights-from-Social-Media-Data/main?labpath=notebook.ipynb)
 
 ## Project presentation :
 
