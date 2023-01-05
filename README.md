@@ -1,4 +1,4 @@
-# Data Analysis Project
+## Data Analysis Project
 # Real-time Insights from Social Media Data
 
 ![](Images/title.PNG)
