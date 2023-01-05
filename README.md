@@ -21,6 +21,9 @@ I created a table with insights using DataFrame, grouped them using groupby(), a
 Later on, I extracted the language of each tweet and added it to the list of languages using the append method, 
 and finally, I used the hist() method of Matplotlib with the tweets_languages as an input parameter to plot the frequency distribution of languages to create a histogram that shows the most used languages.
 
+## Conclusion :
+
+To conclude, this can allow us to get an understanding of the "category" of people interested in this topic (clustering). We could also analyze the device type used by the Twitteratis, tweet['source'], to answer questions like, "Does owning an Apple compared to Andorid influences people's propensity towards this trend?".
 
 ## Libraries used :
 
