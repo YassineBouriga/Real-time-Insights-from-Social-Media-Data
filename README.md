@@ -2,7 +2,7 @@
 ## Title :
 # Real-time Insights from Social Media Data
 
-![](images/title.PNG)
+![](Images/title.PNG)
 
 -----------------------------------------------------
 
@@ -25,8 +25,8 @@ and finally, I used the hist() method of Matplotlib with the tweets_languages as
 ## Libraries used :
 
 * pandas
-![](images/pandas.PNG)
+![](Images/pandas.PNG)
 
 
 * matplotlib
-![](images/matplotlib.PNG)
+![](Images/matplotlib.PNG)
